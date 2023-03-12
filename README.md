@@ -10,8 +10,8 @@ On my freetime i spend time with my 4 kids, still living at home, and occatioanl
 - 🤔 I’m looking for help on HTML and CSS, as design is not sitting to easily with me.
 - 💬 Ask me about anything related to my GitHub or what i do, and i'll answer as best i can. If there is something i can not answer, i'll let you know :)
 - 📫 I',m best reached at:
-..* [LinkedIn](https://www.linkedin.com/in/kjell-arne-neshagen-83152222b/)
-..* Diskord under the username sovak7749
+.. * [LinkedIn](https://www.linkedin.com/in/kjell-arne-neshagen-83152222b/)
+.. * Diskord under the username sovak7749
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:
-..* You can not get me away from a table where Taco is served :) Love it!!
+.. * You can not get me away from a table where Taco is served :) Love it!!
